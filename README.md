@@ -5,6 +5,8 @@ Hi everyone, wanted to share with you my successful attempt to install MacOS Cat
 
 This hack was possible using Feartech's Skylake guide on the tonymacx86 forum as a starting point. It took me a couple of months of research, trial & error, and so much testing of EFI folder tweaks to make sure that everything (almost) worked well on this hack.
 
+![image](https://github.com/axiiiz/X556UJ_CATALINA_OPENCORE/assets/84526805/e02ac2b9-604a-48f5-8f66-3202d885f75c)
+
 What Works Well:
 
 ✅ Intel HD 520 with full 2GB Memory Capacity
@@ -66,9 +68,9 @@ After Installing macOS Catalina on your Skylake Asus X556UJ using the previously
 
 https://www.tonymacx86.com/threads/guide-booting-the-usb-installer-using-opencore.296375/#post-2108796
 
-You can download the EFI configuration and kexts from here (it's 10$) ⬇️
+You can download the EFI configuration and kexts from here (it's 10$ only) ⬇️
 
-https://azizbenamara.com/asus-x556uj-hackintosh-catalina-opencore
+https://mega4upload.com/x2014m6uhzmv
 
 The EFI folder needs to be replaced with the one I provided after deleting the existing one (after mounting your EFI of course like in this video guide for example).
 
