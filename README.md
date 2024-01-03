@@ -37,30 +37,36 @@ What Works Well:
 
 ✅ Wifi (using D-link N150 Wifi Adapter)
 
-All supported Wi-Fi adapters list
 
+All supported Wi-Fi adapters list:
+
+
+ https://justpaste.it/bo0fb
  
 
-Does Not Work
+Does Not Work:
+
 ❌ NVIDIA 920M Dedicated Graphics (impossible to get working at the moment)
 
 ❌ Onboard Wifi + Bluetooth
 
  
 
-Not Tested
+Not Tested:
+
 ⚠️ SD Card Reader (it was already faulty on my PC, but external readers work flawlessly)
 
 ⚠️ Optical Drive
 
  
 
-How To Install My Config
+How To Install My Config:
+
 After Installing macOS Catalina on your Skylake Asus X556UJ using the previously mentioned Feartech Guide on tonymacx86 forums:
 
 https://www.tonymacx86.com/threads/guide-booting-the-usb-installer-using-opencore.296375/#post-2108796
 
-You can download the EFI configuration and kexts from here ⬇️
+You can download the EFI configuration and kexts from here (it's 10$) ⬇️
 
 https://azizbenamara.com/asus-x556uj-hackintosh-catalina-opencore
 
