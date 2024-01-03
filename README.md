@@ -5,7 +5,8 @@ Hi everyone, wanted to share with you my successful attempt to install MacOS Cat
 
 This hack was possible using Feartech's Skylake guide on the tonymacx86 forum as a starting point. It took me a couple of months of research, trial & error, and so much testing of EFI folder tweaks to make sure that everything (almost) worked well on this hack.
 
-What Works Well
+What Works Well:
+
 ✅ Intel HD 520 with full 2GB Memory Capacity
 
 ✅ All USB Ports
