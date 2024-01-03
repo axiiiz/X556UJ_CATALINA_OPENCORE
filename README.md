@@ -1,4 +1,4 @@
-# X556UJ_CATALINA_OPENCORE
+# ASUS X556UJ_CATALINA_OPENCORE
 Asus X556UJ Notebook | MacOs Catalina Hackintosh using Opencore
 
 Hi everyone, wanted to share with you my successful attempt to install MacOS Catalina 10.15.7 using Opencore 0.7.8, on an old Asus X556UJ laptop/notebook (Intel Core i5 6200U version).
